@@ -7,7 +7,7 @@ export const initialProjects = [
   {
     id: 2,
     title: "Fitness Tracker App",
-    description: "Mobile app for tracking workouts"
+    description: "This mobile app is used for tracking workouts"
   },
   {
     id: 3,
